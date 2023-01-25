@@ -1,15 +1,21 @@
-# Trip Planner
+# Trip Planner application using Next.js and ChatGPT
 
-TBD
+This is a simple application that helps you plan your trip to one of the proposed countries.
+
+Build with Next.js, it uses Formik and Yup for form validation, MUI for design and OpenAI API for trip generation.
+
+Make sure you add a `.env` file with `OPENAI_API_KEY=YOUR_API_KEY_HERE`.
 
 ## Stack
+| Client/Server  |
+| ------------- |
 | Next.js |
 | Formik/Yup |
 | Material UI |
-| ChatGPT |
+| OpenAI API |
 
 ## Demo
-TBD
+![next-chatgpt-demo](https://user-images.githubusercontent.com/21682157/214707778-71ab0da7-1476-4277-8e12-e3fd348159a1.gif)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
